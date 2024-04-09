@@ -1,1 +1,1 @@
-# platform.pokerer.winrecord
+# platform.pokerber.account
