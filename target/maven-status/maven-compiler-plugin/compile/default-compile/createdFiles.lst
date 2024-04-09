@@ -1,0 +1,5 @@
+insper/store/winrecord/WinRecordController.class
+insper/store/winrecord/WinRecordService.class
+insper/store/winrecord/WinRecordRepository.class
+insper/store/winrecord/WinRecordApplication.class
+insper/store/winrecord/WinRecord.class
